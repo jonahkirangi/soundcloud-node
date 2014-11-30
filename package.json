@@ -1,0 +1,15 @@
+{
+  "name": "soundcloud-node",
+  "version": "0.0.1",
+  "description": "Interact with the SoundCloud API using node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Jonah Kirangi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.4",
+    "soundclouder": "^0.8.1"
+  }
+}
